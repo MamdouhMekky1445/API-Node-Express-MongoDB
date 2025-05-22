@@ -1,0 +1,11 @@
+--Mongo username - Password
+mamdouhmekky1445
+Mekky@1445
+
+
+
+npm install mongodb
+
+
+
+mongodb+srv://mamdouhmekky1445:Mekky@1445@cluster0.nrauhrp.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
